@@ -1,6 +1,6 @@
-### Hi there  👋
+# Hi there  👋
 
-# No shiny glorious stats just average 😂
+## No shiny glorious stats just average 😂
 
 ![xtruthx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtruthx&show_icons=true&theme=discord_old_blurple)
 
